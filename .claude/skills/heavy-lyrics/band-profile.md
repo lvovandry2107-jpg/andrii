@@ -20,26 +20,25 @@ Read this before every lyric session.
 
 ## Themes
 - Release pitch: *"mental struggle, inner emptiness, and the feeling of being lost in an indifferent world."*
-- Ideas from band notes: "No future for us" (falling out with a partner/friend); "I wanna peace with my mind" (burnout at work) — native wording: **"I want peace of mind"** / **"I just want peace in my mind"**.
 - Midlife crisis, work burnout, relationships, loneliness, anger — honest, personal, adult perspective.
 
 ## Songs — full lyrics in `songs.md` (read it; don't reuse key lines across songs)
 | # | Title | Status | Notes |
 |---|-------|--------|-------|
 | 1 | Whispers | released | 185 BPM, Drop G; "SHUT THE FUCK UP!", "Pain is the progress!" |
-| 2 | No Future | released, video | the most "non-native" text — many fixable lines (see below) |
+| 2 | No Future | released, video | inner emptiness, "No future for us" |
 | 3 | Bitter Pill | released, video | repetitive, slogan-like, heavy profanity — intentional |
 | 4 | Rage | unreleased | "Rage — is my power", breaks "My War", "I die" |
 | 5 | Who Am I? | unreleased | concept: courtroom intro, two selves; break "Who… Am… I?!" |
 | 6 | Hope in the Dark | not recorded | planned duet with Sandro Grizli (Resistance) — the only song with a second vocalist |
-| 7 | Допоки серце б'ється | unreleased | **Ukrainian**; Andrii marked the 0:37 verse «змінити» and the chorus «переробити» |
+| 7 | Допоки серце б'ється | unreleased | **Ukrainian** |
 
 Album planned early next year: first album, a mix of accumulated material while the band finds its style.
 
-### Known spots to offer fixes for (only when Andrii works on these songs)
-- No Future: "I wanna peace with my mind" → "I want peace of mind"; "this world so fucking cold" → "this world is so fucking cold"; "I watch in a mirror" → "I look in the mirror"; "I will never good enough" → "I'll never be good enough"; "This thoughts" → "These thoughts"; "what will we get in the end" → "what we'll get at the end".
-- Bitter Pill: "You are fucking slave / wretch" → "You're a fucking slave / wretch" (or keep the article-less form deliberately as a scream-stab — ask); "Digging own grave" (3rd chorus) → "Digging your own grave".
-- Whispers: "Crash me" → probably "Crush me"; "Lesson, I won't forget!" → "A lesson I won't forget!".
+### Existing songs are FINAL
+- All 7 songs in `songs.md` are finished as they are. **Never suggest edits, fixes or "improvements" to them** — not grammar, not wording, not even when they come up in conversation — unless Andrii explicitly asks to rework a specific song.
+- Use them only as reference: the band's voice, themes, and lines not to repeat in new songs.
+- Corrections, rhymes and native-English polishing are for **new / draft lyrics** only.
 
 ## Band background (context, not for lyrics unless asked)
 - Ukrainian band based in Tbilisi, Georgia. Name: VADA = Vasyl, Andrii, Dmytro, Artem; also Ukrainian «вада» = flaw/defect; «чорна» for the dark side.
@@ -51,11 +50,8 @@ Album planned early next year: first album, a mix of accumulated material while 
 ## Language rules
 - Lyrics: English (main) and Ukrainian. **Never Russian** — the band's principled position; on social media and among themselves they use Ukrainian.
 - Chat explanations to Andrii: Russian (he writes to Claude in Russian).
-- For Ukrainian lyrics: check grammar/spelling too (e.g. «немє» → «немає», «із під» → «з-під»).
+- For new Ukrainian lyrics: check grammar and spelling too.
 
 ## Themes / words to avoid
 - Don't develop war as a literal theme (the word "war" in Rage is fine as inner war).
 - Don't mock heavy topics (self-destruction in Bitter Pill, emigration).
-
-## Language for explanations
-Russian.

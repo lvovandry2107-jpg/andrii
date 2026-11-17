@@ -1,7 +1,7 @@
 # CHORNA VADA — тексты песен
 
 Released on streaming: Whispers, No Future, Bitter Pill. Not recorded yet: Hope in the Dark. Album planned early next year.
-Lyrics are saved exactly as Andrii sent them, with his working notes (timestamps, «змінити», «приспів переробити» = parts he wants to rework).
+Lyrics are saved exactly as Andrii sent them (timestamps and notes are his). These songs are FINAL — reference only, do not suggest edits.
 
 ---
 
