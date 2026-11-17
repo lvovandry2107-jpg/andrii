@@ -48,6 +48,9 @@ Mark which options are clichéd. See `references/craft.md`.
 ### C. User has an idea, no text yet
 Ask (or assume and state) theme, POV, section, approximate tempo. Then offer 2–3 different angles (e.g. literal / metaphorical / confrontational) with a sample 4-line chunk each, and let the user pick before writing more.
 
+### E. User sends audio (instrumental / demo)
+Follow `references/audio-analysis.md`: run `scripts/analyze_track.py`, report tempo(s), structure with timecodes, repeated riffs, stop-time/breakdown spots and how many syllables fit each part, ask Andrii to confirm section names, then give an empty lyric skeleton to fill. Be honest that this is measured, not heard.
+
 ### D. "Звучит ли это нормально?" / naturalness check
 Answer directly: **natural / understandable but off / wrong**, give the native version, and explain the nuance (article, tense, preposition, collocation, register).
 
