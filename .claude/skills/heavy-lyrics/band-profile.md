@@ -7,6 +7,7 @@ Read this before every lyric session.
 - **Genres:** metalcore, metal, hardcore. Release languages: English (main), Ukrainian.
 - **Sound references (from the band's pitch):** Caliban, Heaven Shall Burn, Lamb of God (also mentioned: Gojira, Architects, Fit For An Autopsy)
 - **Tuning / tempo seen so far:** Drop G; "Whispers" is 185 BPM
+- **Based in:** Tbilisi, Georgia (Ukrainian band)
 
 ## Vocals — important for every suggestion
 - **One vocalist only (Andrii): no clean singer, no backing singer.** Main techniques: **growl and scream.** Clean singing is not the default — don't write [Clean] parts unless the user asks.
@@ -15,26 +16,46 @@ Read this before every lyric session.
   - leave **breath space** — no overloaded lines in fast parts (185 BPM!);
   - mark delivery where useful: (low growl), (high scream), (spoken), (gang shout — crowd / band members live);
   - a part that could suit a new technique (fry, pitched scream, mid scream, clean) may be suggested as an option, never as a requirement.
-- One voice → avoid overlapping call-and-response lines unless marked as a studio double-track.
+- One voice → avoid overlapping call-and-response lines unless marked as a studio double-track. Exception: "Hope in the Dark" (planned duet with Sandro Grizli).
 
 ## Themes
 - Release pitch: *"mental struggle, inner emptiness, and the feeling of being lost in an indifferent world."*
 - Ideas from band notes: "No future for us" (falling out with a partner/friend); "I wanna peace with my mind" (burnout at work) — native wording: **"I want peace of mind"** / **"I just want peace in my mind"**.
 - Midlife crisis, work burnout, relationships, loneliness, anger — honest, personal, adult perspective.
 
-## Songs (don't reuse key lines across songs)
-1. No Future — single 2026, has a music video
-2. Whispers — 185 BPM, Drop G; sections: intro, verse, pre-chorus, chorus, bridge, outro
-3. Bitter Pill — single 2026, has a music video
-4. —
-5. —
-6. —
-7. —
+## Songs — full lyrics in `songs.md` (read it; don't reuse key lines across songs)
+| # | Title | Status | Notes |
+|---|-------|--------|-------|
+| 1 | Whispers | released | 185 BPM, Drop G; "SHUT THE FUCK UP!", "Pain is the progress!" |
+| 2 | No Future | released, video | the most "non-native" text — many fixable lines (see below) |
+| 3 | Bitter Pill | released, video | repetitive, slogan-like, heavy profanity — intentional |
+| 4 | Rage | unreleased | "Rage — is my power", breaks "My War", "I die" |
+| 5 | Who Am I? | unreleased | concept: courtroom intro, two selves; break "Who… Am… I?!" |
+| 6 | Hope in the Dark | not recorded | planned duet with Sandro Grizli (Resistance) — the only song with a second vocalist |
+| 7 | Допоки серце б'ється | unreleased | **Ukrainian**; Andrii marked the 0:37 verse «змінити» and the chorus «переробити» |
 
-(The band has 7 tracks — add the remaining titles and lyrics when Andrii shares them.)
+Album planned early next year: first album, a mix of accumulated material while the band finds its style.
+
+### Known spots to offer fixes for (only when Andrii works on these songs)
+- No Future: "I wanna peace with my mind" → "I want peace of mind"; "this world so fucking cold" → "this world is so fucking cold"; "I watch in a mirror" → "I look in the mirror"; "I will never good enough" → "I'll never be good enough"; "This thoughts" → "These thoughts"; "what will we get in the end" → "what we'll get at the end".
+- Bitter Pill: "You are fucking slave / wretch" → "You're a fucking slave / wretch" (or keep the article-less form deliberately as a scream-stab — ask); "Digging own grave" (3rd chorus) → "Digging your own grave".
+- Whispers: "Crash me" → probably "Crush me"; "Lesson, I won't forget!" → "A lesson I won't forget!".
+
+## Band background (context, not for lyrics unless asked)
+- Ukrainian band based in Tbilisi, Georgia. Name: VADA = Vasyl, Andrii, Dmytro, Artem; also Ukrainian «вада» = flaw/defect; «чорна» for the dark side.
+- Vasyl and Dmytro left Ukraine after the occupation and started jamming to stay sane — **don't joke about this.**
+- Andrii started extreme vocals with a coach; joined after a cover of Imminence — "Heaven Shall Burn". Artem has played hardcore and deathcore; Vasyl and Artem also play in Iron Pit (hardcore).
+- Tastes: Artem — classic/beatdown hardcore; Vasyl — old-school metalcore 2007–2009; Dmytro — versatile (ex cover band, indie rock).
+- Weekly rehearsals; first live shows expected around February.
+
+## Language rules
+- Lyrics: English (main) and Ukrainian. **Never Russian** — the band's principled position; on social media and among themselves they use Ukrainian.
+- Chat explanations to Andrii: Russian (he writes to Claude in Russian).
+- For Ukrainian lyrics: check grammar/spelling too (e.g. «немє» → «немає», «із під» → «з-під»).
 
 ## Themes / words to avoid
-- (to be filled)
+- Don't develop war as a literal theme (the word "war" in Rage is fine as inner war).
+- Don't mock heavy topics (self-destruction in Bitter Pill, emigration).
 
 ## Language for explanations
 Russian.
