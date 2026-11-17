@@ -64,7 +64,9 @@ def main():
         if e - s < 4:
             continue
         seg = y[int(s * sr):int(e * sr)]
-        print(f"{mmss(s)}  tempo candidates {acf_tempo(seg, sr)}  rms {librosa.feature.rms(y=seg)[0].mean():.3f}")
+        fa, fb = int(s * sr / HOP), int(e * sr / HOP)
+        main_t = float(np.atleast_1d(librosa.feature.tempo(onset_envelope=oenv[fa:fb], sr=sr, hop_length=HOP, prior=None))[0])
+        print(f"{mmss(s)}  tempo ~{main_t:6.1f}  (other candidates {acf_tempo(seg, sr)})  rms {librosa.feature.rms(y=seg)[0].mean():.3f}")
 
     print("\n== Bars (4 beats) with repetition labels ==")
     print("Same letter = similar sound (same riff). Low rms bars between loud ones = stops/holes.")
