@@ -42,6 +42,7 @@ Album planned early next year: first album, a mix of accumulated material while 
 - Corrections, rhymes and native-English polishing are for **new / draft lyrics** only.
 
 ## Drafts
+`ideas.md` — song themes Andrii chose to develop (Mute, VADA, Unsent, Ghost of Me), plans only.
 `drafts.md` — Andrii's unfinished sketches without music (Take Me Home, Father, Love Bring Me Alive). These are NOT final: polish them when asked, and use them for theme ideas.
 
 ## Band background (context, not for lyrics unless asked)
