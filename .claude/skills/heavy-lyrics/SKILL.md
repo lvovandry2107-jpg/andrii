@@ -71,4 +71,4 @@ Answer directly: **natural / understandable but off / wrong**, give the native v
 - Respect heavy themes (depression, anger, addiction, loss, politics). Write them honestly; don't soften the user's message. If lyrics suggest the user personally is in crisis, check in like a friend, briefly.
 
 ## Band profile
-Read `band-profile.md` (CHORNA VADA) first; when working on an existing song or checking for repeated lines, also read `songs.md` (all 7 lyrics). If `band-profile.md` exists in this skill folder, read it and follow it (band name, themes, vocal setup, words to avoid, past songs). If it doesn't exist and the user shares stable preferences, offer to save them there.
+Read `band-profile.md` (CHORNA VADA) first; when working on an existing song or checking for repeated lines, also read `songs.md` (8 finished songs — reference only) and `drafts.md` (unfinished sketches — editable on request, source of theme ideas). If `band-profile.md` exists in this skill folder, read it and follow it (band name, themes, vocal setup, words to avoid, past songs). If it doesn't exist and the user shares stable preferences, offer to save them there.

@@ -1,6 +1,6 @@
 # CHORNA VADA — тексты песен
 
-Released on streaming: Whispers, No Future, Bitter Pill. Not recorded yet: Hope in the Dark. Album planned early next year.
+Released on streaming: Whispers, No Future, Bitter Pill. Not recorded yet: Hope in the Dark. Newest finished text: Born to Lose (Nov 2026). Album planned early next year.
 Lyrics are saved exactly as Andrii sent them (timestamps and notes are his). These songs are FINAL — reference only, do not suggest edits.
 
 ---
@@ -466,3 +466,69 @@ Not you, not I
 Will ever reach the sky
 We wanna fly like angels
 But we are demons inside
+
+---
+
+## Born to Lose
+(Written with Claude in Nov 2026 for the "Locked Goose — Track 8" instrumental, 130 → 90 BPM. Final text.)
+
+(0:11–0:24)
+Every day they say
+“Shame on you!”
+Whatever you do this stigma's burned into you
+All your fucking life a total mistake
+You can run
+But you can’t escape
+
+(0:25–0:40)
+What a shame, you were born to lose
+Not good enough, nothing to lose
+Raised like animals, fed one rule
+Kill or be killed!
+Kill or be killed!
+
+(0:49–1:03)
+You can try to scream
+But no one will hear
+You can hide in the shadows And pray to disappear
+Endless agony No way back for you
+Evolution through violence
+That’s the world’s natural balance
+
+(1:03–1:17)
+What a shame, you were born to lose
+Not good enough, nothing to lose
+Raised like animals, fed one rule
+Kill or be killed!
+Kill or be killed!
+
+(Spoken part — shouts / cold spoken questions)
+Kill or be killed!
+Now say your final words
+Kill or be killed!
+What are you waiting for?
+Kill or be killed!
+What are you crying for?
+Kill or be killed!
+What are you living for?
+
+(2:02 — verse, climax)
+No more words to say
+No one left to blame
+On your knees in the dirt and Choking on your shame
+One last breath to take
+One last chance to pray
+Now you know the rule That’s the price you pay
+
+(2:32 — chorus)
+What a shame, you were born to lose
+Not good enough, nothing to lose
+Raised like animals, fed one rule
+Kill or be killed!
+Kill or be killed!
+
+(2:54 — outro)
+Born to lose
+Time has come
+Nothing left
+Rest in shame

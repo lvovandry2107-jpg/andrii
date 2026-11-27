@@ -32,13 +32,17 @@ Read this before every lyric session.
 | 5 | Who Am I? | unreleased | concept: courtroom intro, two selves; break "Who… Am… I?!" |
 | 6 | Hope in the Dark | not recorded | planned duet with Sandro Grizli (Resistance) — the only song with a second vocalist |
 | 7 | Допоки серце б'ється | unreleased | **Ukrainian** |
+| 8 | Born to Lose | text finished Nov 2026, music: "Locked Goose — Track 8" | shame/stigma, "Kill or be killed!", spoken interrogation, outro "Rest in shame" |
 
 Album planned early next year: first album, a mix of accumulated material while the band finds its style.
 
 ### Existing songs are FINAL
-- All 7 songs in `songs.md` are finished as they are. **Never suggest edits, fixes or "improvements" to them** — not grammar, not wording, not even when they come up in conversation — unless Andrii explicitly asks to rework a specific song.
+- All 8 songs in `songs.md` are finished as they are. **Never suggest edits, fixes or "improvements" to them** — not grammar, not wording, not even when they come up in conversation — unless Andrii explicitly asks to rework a specific song.
 - Use them only as reference: the band's voice, themes, and lines not to repeat in new songs.
 - Corrections, rhymes and native-English polishing are for **new / draft lyrics** only.
+
+## Drafts
+`drafts.md` — Andrii's unfinished sketches without music (Take Me Home, Father, Love Bring Me Alive). These are NOT final: polish them when asked, and use them for theme ideas.
 
 ## Band background (context, not for lyrics unless asked)
 - Ukrainian band based in Tbilisi, Georgia. Name: VADA = Vasyl, Andrii, Dmytro, Artem; also Ukrainian «вада» = flaw/defect; «чорна» for the dark side.
