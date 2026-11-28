@@ -51,7 +51,7 @@ Real story: Andrii started extreme vocals late; the band is the answer to that k
 # Phrase bank (Nov 28 2026)
 
 Loose lines Andrii collected (heard in other songs or came to mind), sorted by Claude into blocks.
-Lines are lightly corrected; (?) = Claude's guess at what was meant — confirm with Andrii.
+Lines are lightly corrected (guesses confirmed by Andrii).
 Repeats of the catalogue were removed (list at the end). Not lyrics yet — raw material.
 
 ## Блок A — Tomorrow I'm New
@@ -79,7 +79,7 @@ Tomorrow I'm new
 Never look back
 (брейкдаун)
 
-It's time to let go (?)
+It's time to let go
 (финал)
 
 You are not alone
@@ -121,7 +121,7 @@ Invisible to you
 Can you tell me
 Why I can't let go?
 
-I see your face in hell (?)
+I see your face in hell
 
 ## Блок D — Human Face
 **Тема:** злость на людей и мир (можно повернуть в сторону войны/агрессора — решает Андрей)
@@ -131,7 +131,7 @@ You are a demon with a human face
 
 You will never rest in peace
 
-You're nothing in my eyes (?)
+You're nothing in my eyes
 
 Humanity
 It's not our reality
