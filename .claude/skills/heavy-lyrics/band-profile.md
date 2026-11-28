@@ -55,6 +55,7 @@ Album planned early next year: first album, a mix of accumulated material while 
 ## Language rules
 - Lyrics: English (main) and Ukrainian. **Never Russian** — the band's principled position; on social media and among themselves they use Ukrainian.
 - Chat explanations to Andrii: Russian (he writes to Claude in Russian).
+- **Always give a Russian translation for every English line you propose** (variants, rewrites, rhymes, clean copies) — line by line, e.g. a "Строка | Перевод" table. Andrii doesn't know every word; for idioms add a short meaning note (e.g. "down and out — на дне, сломлен").
 - For new Ukrainian lyrics: check grammar and spelling too.
 
 ## Themes / words to avoid
